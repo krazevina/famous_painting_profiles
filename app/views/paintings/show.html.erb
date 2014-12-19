@@ -1,0 +1,44 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @painting.title %>
+</p>
+
+<p>
+  <strong>Artist:</strong>
+  <%= @painting.artist %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @painting.body %>
+</p>
+
+<p>
+  <strong>Year:</strong>
+  <%= @painting.year %>
+</p>
+
+<p>
+  <strong>Material:</strong>
+  <%= @painting.material %>
+</p>
+
+<p>
+  <strong>Genre:</strong>
+  <%= @painting.genre %>
+</p>
+
+<p>
+  <strong>Location:</strong>
+  <%= @painting.location %>
+</p>
+
+<p>
+  <strong>Image:</strong>
+  <%= image_tag (@painting.image), style: "width:200px" %>
+</p>
+
+<%= link_to 'Edit', edit_painting_path(@painting) %> |
+<%= link_to 'Back', paintings_path %>

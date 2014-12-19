@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails famous_painting_profiles: default" uuid="afd3df18-1df8-46c7-96d4-e69922fd2d07">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails famous_painting_profiles: development" uuid="1d713941-585d-41a6-9a11-1ce5199411c8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails famous_painting_profiles: test" uuid="173a2643-f935-4c7d-a655-febfef406112">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails famous_painting_profiles: production" uuid="9dd99346-c558-441f-8815-02d4d1d6e8a6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
